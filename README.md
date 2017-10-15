@@ -14,10 +14,10 @@ Although the application is fairly functional, there are still some details miss
   * Refactor UI design (better menu colors, week navigation etc.)
   * Refactor code, lots of hacks included, I promise (my first React project!).
   * Find an elegant solution for cases where multiple courses occupy the same time range. (Currently the application shrugs off displaying buggy results)
-  * Display correct data for cases where a course takes more than one day (e.g the course has a scheduled exam for a week but exact day may be unavailable)
+  * Display correct data for cases where a course takes more than one day (e.g the course has a scheduled exam in a specified week but exact day may be unavailable)
 
 ## Notes
-* Currently the application works by making scraping data from [kursus.ruc.dk](https://kursus.ruc.dk), creating jsons for front-end. I will publish these Python scripts soon.
+* Currently the application works by making use of scrapped data from [kursus.ruc.dk](https://kursus.ruc.dk). I will publish these Python scripts for creating json files soon.
 * Some texts may appear Danish, as these are not translated to English by [kursus.ruc.dk](https://kursus.ruc.dk), it's a feature :)
 
 ## Dependencies
