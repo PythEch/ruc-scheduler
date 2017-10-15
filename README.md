@@ -1,7 +1,7 @@
 # ruc-scheduler
 The missing timetable web application for Roskilde University made out of boredom.
 
-RUC doesn't have an official timetable website except for [kursus.ruc.dk](https://kursus.ruc.dk) where you have to keep track of each course by yourself. This was a tiresome and unnecessary work since every course has its own schedule and lecturers sometimes change their plans. I assume having a timetable web application is a fairly standard procedure for most universities, so I thought I could teach myself React while solving this problem I had, cool.
+RUC doesn't have an official timetable website except for [kursus.ruc.dk](https://kursus.ruc.dk) where you have to keep track of each course by yourself. This was a tiresome and unnecessary work since every course has its own schedule changing each week and lecturers sometimes change their plans. I assume having a timetable web application is a fairly standard procedure for most universities, so I thought I could teach myself React while solving this problem I had, cool.
 
 Demo at [here](https://turkmenog.lu/ruc-scheduler/)
 
@@ -25,7 +25,7 @@ Although the application is fairly functional, there are still some details miss
 * [Textfit](https://github.com/STRML/textFit)
 * [Material UI Day Timetable](https://www.npmjs.com/package/material-ui-day-time-table)
 * [Axios](https://www.npmjs.com/package/axios)
-* Mobx
-* React
-* Babel
-* SASS
+* [Mobx](https://mobx.js.org)
+* [React](https://reactjs.org)
+* [react-collapse](https://www.npmjs.com/package/react-collapse)
+* [SASS](http://sass-lang.com)
