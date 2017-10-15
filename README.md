@@ -15,6 +15,7 @@ Although the application is fairly functional, there are still some details miss
   * Refactor code, lots of hacks included, I promise (my first React project!).
   * Find an elegant solution for cases where multiple courses occupy the same time range. (Currently the application shrugs off displaying buggy results)
   * Display correct data for cases where a course takes more than one day (e.g the course has a scheduled exam in a specified week but exact day may be unavailable)
+  * Allow user to navigate to [kursus.ruc.dk](https://kursus.ruc.dk) for detailed syllabus about the course.
 
 ## Notes
 * Currently the application works by making use of scrapped data from [kursus.ruc.dk](https://kursus.ruc.dk). I will publish these Python scripts for creating json files soon.
